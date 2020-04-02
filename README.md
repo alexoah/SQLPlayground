@@ -1,5 +1,5 @@
 # Alexoah's SQL Playground
-A collection of SQL (Structured Query Language) exercises.
+A collection of SQL (Structured Query Language) exercises.  
 Thank you for your visit!
 
 ## List of Exercises
