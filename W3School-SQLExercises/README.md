@@ -18,31 +18,31 @@ Total: 52 Exercises.
 | W3Schools [Tutorial](https://www.w3schools.com/sql/sql_orderby.asp) | 1 | 2 | 3 |
 | :--- | --- | --- | --- |
 | Exercises | [Q1](https://www.w3schools.com/sql/exercise.asp?filename=exercise_orderby1) | [Q2](https://www.w3schools.com/sql/exercise.asp?filename=exercise_orderby2) | [Q3](https://www.w3schools.com/sql/exercise.asp?filename=exercise_orderby3) |
-| Answer | [A1](./SQL-OrderBy/phpOrderByE1.sql) | [A2](./SQL-OrderBy/phpOrderByE2.sql) | [A3](./SQL-OrderBy/phpOrderByE3.sql) |
+| Answer | [A1](./SQL-OrderBy/sqlOrderByE1.sql) | [A2](./SQL-OrderBy/sqlOrderByE2.sql) | [A3](./SQL-OrderBy/sqlOrderByE3.sql) |
 
 ## [SQL Insert](./SQL-Insert): 1 exercise
 | W3Schools [Tutorial](https://www.w3schools.com/sql/sql_insert.asp) | 1 |
 | :--- | --- |
 | Exercises | [Q1](https://www.w3schools.com/sql/exercise.asp?filename=exercise_insert1) |
-| Answer | [A1](./SQL-Insert/phpInsertE1.sql) |
+| Answer | [A1](./SQL-Insert/sqlInsertE1.sql) |
 
 ## [SQL Null](./SQL-Null): 2 exercises
 | W3Schools [Tutorial](https://www.w3schools.com/sql/sql_null_values.asp) | 1 | 2 |
 | :--- | --- | --- |
 | Exercises | [Q1](https://www.w3schools.com/sql/exercise.asp?filename=exercise_null1) | [Q2](https://www.w3schools.com/sql/exercise.asp?filename=exercise_null2) |
-| Answer | [A1](./SQL-Null/phpNullE1.sql) | [A2](./SQL-Null/phpNullE2.sql) |
+| Answer | [A1](./SQL-Null/sqlNullE1.sql) | [A2](./SQL-Null/sqlNullE2.sql) |
 
 ## [SQL Update](./SQL-Update): 3 exercises
 | W3Schools [Tutorial](https://www.w3schools.com/sql/sql_update.asp) | 1 | 2 | 3 |
 | :--- | --- | --- | --- |
 | Exercises | [Q1](https://www.w3schools.com/sql/exercise.asp?filename=exercise_update1) | [Q2](https://www.w3schools.com/sql/exercise.asp?filename=exercise_update2) | [Q3](https://www.w3schools.com/sql/exercise.asp?filename=exercise_update3) |
-| Answer | [A1](./SQL-Update/phpUpdateE1.sql) | [A2](./SQL-Update/phpUpdateE2.sql) | [A3](./SQL-Update/phpUpdateE3.sql) |
+| Answer | [A1](./SQL-Update/sqlUpdateE1.sql) | [A2](./SQL-Update/sqlUpdateE2.sql) | [A3](./SQL-Update/sqlUpdateE3.sql) |
 
 ## [SQL Delete](./SQL-Delete): 2 exercises
 | W3Schools [Tutorial](https://www.w3schools.com/sql/sql_delete.asp) | 1 | 2 |
 | :--- | --- | --- |
 | Exercises | [Q1](https://www.w3schools.com/sql/exercise.asp?filename=exercise_delete1) | [Q2](https://www.w3schools.com/sql/exercise.asp?filename=exercise_delete2) |
-| Answer | [A1](./SQL-Delete/phpDeleteE1.sql) | [A2](./SQL-Delete/phpDeleteE2.sql) |
+| Answer | [A1](./SQL-Delete/sqlDeleteE1.sql) | [A2](./SQL-Delete/sqlDeleteE2.sql) |
 
 
     
