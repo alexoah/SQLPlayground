@@ -10,3 +10,9 @@
  */
 SELECT * FROM Customers
 WHERE City LIKE "a%b";
+
+/* MS ACCESS version */
+/*
+SELECT * FROM Customers
+WHERE City LIKE "a*b";
+*/
